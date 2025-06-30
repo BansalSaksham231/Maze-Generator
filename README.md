@@ -5,4 +5,4 @@ The Project consists of generating a square maze primarily using 5 algorithms :
 4) Ellers Algorithm
 5) Aldous Border Algorithm
 
-
+The link for the website is https://bansalsaksham231.github.io/Maze-Generator/
