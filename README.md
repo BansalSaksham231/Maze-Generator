@@ -6,4 +6,3 @@ The Project consists of generating a square maze primarily using 5 algorithms :
 5) Aldous Border Algorithm
 
 
-The link to the website : ``https://sharvil-18.github.io/Maze_generation/``
